@@ -1,4 +1,4 @@
-https://cli.vuejs.org/guide/installation.html
+<https://cli.vuejs.org/guide/installation.html>
 
 **steps**
 
@@ -7,21 +7,15 @@ https://cli.vuejs.org/guide/installation.html
 
 **Install Node.js**
 
-[]: # Language: markdown
 []: # Path: Docs\installation.md
-https://nodejs.org/en/
+<https://nodejs.org/en/>
 
 **Install Vue CLI**
 
 []: # Language: markdown
 []: # Path: Docs\installation.md
-https://cli.vuejs.org/guide/installation.html
+<https://cli.vuejs.org/guide/installation.html>
 
 **Install Vue Router**
-
-[]: # Language: markdown
 []: # Path: Docs\installation.md
-https://router.vuejs.org/guide/installation.html
-
-
-[]: # Language: markdown
+<https://router.vuejs.org/guide/installation.html>
