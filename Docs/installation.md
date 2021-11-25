@@ -64,7 +64,7 @@ You can check you have the right version with this command:
 
     vue --version
 
-    or
+   or
 
     vue -v
 
