@@ -1,0 +1,32 @@
+{
+  "recommendations": [
+    "jcbuisson.vue",
+    "visualstudioexptteam.vscodeintellicode",
+    "usernamehw.todo-md",
+    "hbenl.vscode-test-explorer",
+    "esbenp.prettier-vscode",
+    "ms-vscode.powershell",
+    "christian-kohler.path-intellisense",
+    "chrisdias.vscode-opennewinstance",
+    "christian-kohler.npm-intellisense",
+    "eg2.vscode-npm-script",
+    "bengreenier.vscode-node-readme",
+    "pkief.material-icon-theme",
+    "ogranny.md-template",
+    "shd101wyy.markdown-preview-enhanced",
+    "ms-vsliveshare.vsliveshare",
+    "ritwickdey.liveserver",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "github.copilot",
+    "expresssnippets.vscode-express-snippets",
+    "compulim.vscode-express",
+    "dbaeumer.vscode-eslint",
+    "firefox-devtools.vscode-firefox-debug",
+    "github.vscode-codeql",
+    "formulahendry.code-runner",
+    "coenraads.bracket-pair-colorizer",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag"
+  ]
+}
