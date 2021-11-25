@@ -48,7 +48,7 @@ You can see the docs [here](https://vuejs.org/v2/guide/installation.html) for an
 
 Vue can be installed with
 
-    npm install Vue
+    npm install vue
 
 For this project, we will also be installing the command line tooling.
 
