@@ -64,10 +64,6 @@ You can check you have the right version with this command:
 
     vue --version
 
-   or
-
-    vue -v
-
 ## congratulations! you have now set up your dev environment
 
 <br>
