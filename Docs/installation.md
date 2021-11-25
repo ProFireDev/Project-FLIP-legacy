@@ -26,7 +26,7 @@
 
 <br>
 
-["intro to forking to get the project set up"](https://cdn.discordapp.com/attachments/913259753948446720/913332772662288414/forking_-_intro_compressed.gif)
+[![Intro to forking and colaborating](https://media.discordapp.net/attachments/913259753948446720/913332772662288414/forking_-_intro_compressed.gif?width=720&height=514 "Intro to forking and colaborating")](https://cdn.discordapp.com/attachments/913259753948446720/913332772662288414/forking_-_intro_compressed.gif "Intro to forking and colaborating")
 
 <br>4. Next we need to get the terminal set up, this step is completely optional, but is recommended. you can install windows terminal though the microsoft store by clicking [here](http://https://www.microsoft.com/en-ca/p/windows-terminal/9n0dx20hk701?SilentAuth=1&wa=wsignin1.0&rtc=1#activetab=pivot:overviewtab "here")
 
