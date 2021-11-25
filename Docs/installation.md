@@ -16,7 +16,9 @@
 
 <br>1. Install Github desktop [here](https://desktop.github.com/ "here").
 
-<br>2. Clone the repository to your local computer. - Click on the green code Button - Click the "Open with GitHub Desktop" button on the drop-down menu - note your browser may prompt you with a button to confirm this, click Open with GitHub Desktop again on this prompt.
+<br>2. Clone the repository to your local computer. - Click on the green code Button 
+- Click the "Open with GitHub Desktop" button on the drop-down menu 
+- note your browser may prompt you with a button to confirm this, click Open with GitHub Desktop again on this prompt.
 
 <br>
 
