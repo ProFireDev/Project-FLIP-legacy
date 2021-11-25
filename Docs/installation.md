@@ -32,9 +32,11 @@
 
 you will do all your work on your local branch. if you wish to merge your work into the main, you will have to open a pull request so it can be reviwed by everyone before being merged. ideally the main should be the "slowest" and most stable branch, having all of the code together in a stable product
 
-when Pushing your code, there is a branch called **DEV-combined** this branch is the "fast" branch and is where all the most up to date code is. you will always want to merge your work into this branch
+
+when Pushing your code, there is a branch called **DEV-COMBINED** this branch is the "fast" branch and is where all the most up to date code is. you will always want to merge your work into this branch
 
 **Do not delete the branch after it has been merged to another branch, you need to keep pushing to it. think of it like your own personal version of the repository**
+
 <br>
 
 --------
