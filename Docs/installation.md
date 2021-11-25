@@ -1,5 +1,6 @@
 <https://cli.vuejs.org/guide/installation.html>
 
+-- fix with proper instructions
 **steps**
 
     1. Install Node.js
